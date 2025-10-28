@@ -15,7 +15,7 @@
 
 ---
 
-## Recommended Windows Laptops (2024-2025)
+## Recommended Windows Laptops (Current Generation)
 
 ### 1. **Dell Precision 5690** ⭐ Best Overall for Data Scientists
 **Specifications:**
@@ -341,4 +341,4 @@ All these laptops will handle your workload extremely well with 64GB+ RAM, fast 
 
 ---
 
-*Last Updated: October 2024*
+*Last Updated: October 2025*
